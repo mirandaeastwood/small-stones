@@ -1,0 +1,9 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mirandaeastwood.github.io/small-stones/annotations/-small-stones-video-canvas-1-fx.json",
+  "type": "AnnotationPage",
+  "label": "FX",
+  "items": [
+
+  ]
+}
