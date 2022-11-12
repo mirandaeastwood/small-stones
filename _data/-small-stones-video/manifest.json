@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://mirandaeastwood.github.io/small-stones/-small-stones-video/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "\"Small Stones\" video" ] },
+    "label": { "en": [ "\"Small Stones\" Annotations and Video" ] },
     "homepage": [
       {
         "id": "https://spokenweb.ca/_/vid/small-stones.mp4",
         "type": "Text",
-        "label": { "en": [ "\"Small Stones\" video" ] },
+        "label": { "en": [ "\"Small Stones\" Annotations and Video" ] },
         "format": "text/html"
       }
     ],
