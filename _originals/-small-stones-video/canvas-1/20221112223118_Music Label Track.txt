@@ -1,0 +1,10 @@
+1.596919	323.159819	Deep tone swells and fades repeatedly, slowly rising in volume, while rythmic distortion is introduced.
+111.568071	317.925474	An alternate but similar tone is overlaid onto the first, at times punctuating the Voice.
+526.273481	670.539574	Syncopated bass melody introduced, underlaid beneath all sounds. Plays for a riff, rests for few seconds, repeats. 
+673.411810	680.952816	Saxophone tone swells and cuts. 
+686.530249	694.000558	Last hit swells into sustained tone.
+699.428280	755.697490	Sax hits develop into chaotic melody beneath Voice.
+755.697490	1023.092681	Sax fluttering and tonal resonance.
+872.028593	1050.950043	Deep tone underlaid, slowly building a melody beneath the Voice and fluttering.
+1023.092681	1050.950043	Sax fluttering begins to slow.
+1050.950043	1204.476048	Sax fluttering develops into sustained tones, harmonized.Swelling and retreating like waves.
