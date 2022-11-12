@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mirandaeastwood.github.io/small-stones/annotations/-small-stones-video-canvas-1-voice.json",
+  "type": "AnnotationPage",
+  "label": "Voice",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones-video-canvas-1-voice-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Second Voice, panned right, speaking.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones/-small-stones-video/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "114.534569,295.829218"
+        }
+      }
+    }
+  ]
+}
