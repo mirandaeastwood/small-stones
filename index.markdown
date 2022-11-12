@@ -4,7 +4,6 @@
 
 layout: home
 ---
-<!DOCTYPE html>
 <html>
 <head>
 </head>
