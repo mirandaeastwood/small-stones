@@ -1,0 +1,86 @@
+16.179893	19.497104	Speaking.
+24.842346	26.964640	Speaking.
+31.017931	35.099639	Speaking.
+39.612459	43.471680	Speaking.
+47.308721	49.970253	Speaking.
+54.051267	59.285613	Speaking.
+61.658811	65.784185	Speaking.
+67.625078	71.950066	Speaking.
+75.121725	78.093768	Speaking.
+79.690687	82.596192	Speaking.
+85.191185	88.473741	Speaking.
+90.758222	94.706160	Speaking.
+97.633845	101.515245	Speaking.
+103.688829	106.572154	Speaking.
+107.503690	108.657021	Speaking.
+109.765992	110.963681	Speaking.
+113.314701	295.829218	Speaking: Voice panned left. 
+295.829218	317.298905	Speaking: Voice panned centre.
+321.335561	347.729081	High-cut, Low-cut EQ filter applied; the Voice sounds as though it's coming from a telephone.
+355.491881	363.032887	Filtered Voice continues.
+367.202619	373.545936	Filtered voice continues.
+377.737848	382.750399	Filter removed, Voice speaking.
+387.075387	392.708962	Speaking.
+392.797680	393.951010	Barely audible breath.
+397.832410	402.822782	Speaking: "sharp", "swift", "and", "vessels".
+406.826169	418.090546	Speaking.
+428.742216	436.721266	Speaking.
+442.465738	449.230464	Speaking.
+453.902006	459.036543	Speaking.
+463.561147	469.682669	Speaking.
+474.462336	478.831683	Speaking.
+483.001416	493.736259	Speaking.
+519.730550	523.722847	Speaking: "deux cent cinquante coups".
+530.820264	536.276403	Speaking.
+538.871397	544.371895	Speaking.
+546.390223	551.935080	Speaking.
+547.321759	547.321759	Vocal skip.
+559.099035	563.734536	Speaking.
+566.750938	569.656443	Speaking: "EV-EH-RE MOHR-NING"...
+569.856058	573.249511	Speaking.
+578.151165	581.300643	Speaking: "EV-EH-RE MOHR-NING"...
+581.722053	584.561019	Speaking.
+588.908187	590.704721	Speaking: "EV-EH-RE"...
+590.970874	596.449193	Speaking.
+601.195591	604.367249	Speaking: "EV-EH-RE" morning".
+605.210067	607.494549	Speaking.
+610.311336	615.434784	Speaking.
+619.427081	621.046179	Speaking: "Every morning"...
+622.443483	623.796429	Speaking.
+626.369242	633.222686	Speaking: "Every m-orning"... 
+639.299849	644.733809	Speaking: "Every m-orning"...
+651.099305	655.934421	Speaking: High-cut, Low-cut EQ filter applied; workds begin to break. 
+659.516398	664.052091	Speaking: Filter continues.
+666.702533	672.668799	Speaking: Filter continues.
+678.635066	680.675573	Speaking: "Fff" sound builds into first sound.
+681.019354	749.709045	Speaking: Emphasizing words and syllables; staccato.
+816.358227	817.027769	Speaking: "Shhh" builds into first word, "shadow".
+817.027769	828.457106	Speaking: rapid.
+831.950366	834.035232	Speaking.
+837.839004	840.167844	Speaking.
+843.017901	847.897375	Speaking.
+851.490442	854.928254	Speaking.
+857.412350	862.114389	Speaking.
+864.165986	866.816427	Speaking.
+868.313539	869.511228	Speaking.
+871.230134	874.812111	Speaking.
+877.584540	878.959665	Speaking, cuts in middle of word.
+880.867095	881.066710	Speaking: fragment.
+882.347572	883.029590	Speaking: Fragment.
+885.059007	885.391699	Speaking: "small".
+886.423042	887.471020	Speaking: "stones".
+888.568902	892.131473	Speaking: rapid.
+894.257925	894.790232	Speaking: "small".
+895.461159	896.159811	Speaking: "stones".
+896.947181	897.648606	Speaking: "flourishing".
+898.524693	899.844369	Speaking: rapid, "in a future against".
+900.886802	901.579909	Speaking: "Babylon".
+902.766509	940.696104	Speaking: rapid.
+946.285320	964.760784	Speaking: rapid.
+970.483077	984.156694	Speaking.
+989.435398	1001.146137	Speaking: Barely audible under music.
+1001.146137	1015.529496	Speaking.
+1019.033846	1050.329019	Speaking: slowing.
+1073.639599	1076.972058	Speaking.
+1078.380452	1090.057921	Speaking.
+1091.627115	1200.395033	Speaking.
