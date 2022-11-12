@@ -49,7 +49,7 @@
 622.443483	623.796429	Speaking.
 626.369242	633.222686	Speaking: "Every m-orning"... 
 639.299849	644.733809	Speaking: "Every m-orning"...
-651.099305	655.934421	Speaking: High-cut, Low-cut EQ filter applied; workds begin to break. 
+651.099305	655.934421	Speaking: High-cut, Low-cut EQ filter applied; words begin to break. 
 659.516398	664.052091	Speaking: Filter continues.
 666.702533	672.668799	Speaking: Filter continues.
 678.635066	680.675573	Speaking: "Fff" sound builds into first sound.
